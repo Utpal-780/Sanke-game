@@ -45,7 +45,7 @@ A classic snake game built in C++ using the console. The game features smooth mo
 
 1. Clone the repository:
    sh
-   git clone https://github.com/MohammedTabrez11/Snake_Game/
+   git clone [https://github.com//Snake_Game/](https://github.com/Utpal-780/Sanke-game/)
    cd snake-game
    
 
@@ -70,12 +70,14 @@ The game stores the highest score in a file named HighScore.txt. The highest sco
 
 ## Rulebook
 
-![Game Interface Screenshot](preview.png)
+![preview](https://github.com/user-attachments/assets/e52521b5-8c39-4847-8ee5-96ae4f7fa0f7)
+
 
 
 ## Game Interface
 
-![Snake Game Rulebook](Snake_game.png)
+![Snake_game](https://github.com/user-attachments/assets/aa75f4b2-82b0-4989-87de-e1417c420b3a)
+
 
 
 ## 👨‍💻 Contributing
