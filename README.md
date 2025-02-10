@@ -44,19 +44,22 @@ A classic snake game built in C++ using the console. The game features smooth mo
 
 
 1. Clone the repository:
-   sh
+   ```sh
    git clone [https://github.com//Snake_Game/](https://github.com/Utpal-780/Sanke-game/)
    cd snake-game
+   ```
    
 
 2. Compile the code:
-   sh
+   ```sh
    g++ main.cpp -o main.exe
+   ```
    
 
 3. Run the game:
-   sh
+   ```sh
    main.exe
+   ```
    
 
 ## 💾 High Score System
