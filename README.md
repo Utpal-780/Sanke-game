@@ -96,10 +96,6 @@ Feel free to fork this repository and enhance the game! You can improve features
 - Enhancing performance and game logic
 
 
-## 📝 License
-
-This project is open-source and available under the MIT License.
-
 ---
 
 Enjoy the game and challenge yourself to beat the high score! 🚀
